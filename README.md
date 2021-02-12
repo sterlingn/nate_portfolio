@@ -19,4 +19,4 @@ library(sqldf)
 
 #### leaderboard<- read.csv('C:/leaderboards_timechange.csv')
 
-[image]<https://github.com/sterlingn/nate_portfolio/blob/main/images/linechart.png>
+![image](https://github.com/sterlingn/nate_portfolio/blob/main/images/linechart.png)
