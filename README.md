@@ -18,3 +18,5 @@ library(sqldf)
 ## How did I do as far as being on the leaderboard?
 
 #### leaderboard<- read.csv('C:/leaderboards_timechange.csv')
+
+<https://github.com/sterlingn/nate_portfolio/blob/main/images/linechart.png>
